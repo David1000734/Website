@@ -1,0 +1,13 @@
+#header {
+    text-align: center;
+}
+
+#bodyText {
+    color: blue
+}
+
+hr {
+    width: 95%;
+    height: 1px;
+    background: #fff;
+}
