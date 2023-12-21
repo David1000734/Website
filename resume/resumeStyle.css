@@ -2,8 +2,28 @@
     text-align: center;
 }
 
-#bodyText {
-    color: blue
+#subHead {
+    padding-left: 1rem;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 0;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+}
+
+#body {
+    padding-left: 0.5rem;
+    padding-top: 0;
+    padding-right: 2px;
+    padding-bottom: 0;
+
+    color: black;
+    text-align:left;
+}
+
+#sameLine {
+    float: inline-end;
+    margin-right: 2rem;
 }
 
 hr {
