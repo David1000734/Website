@@ -31,7 +31,7 @@ body.main {
     text-align:left;
 }
 
-p.thick {
+#thick {
     font-weight: bold;
     font-size: 20px;
 }
