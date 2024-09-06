@@ -2,8 +2,43 @@
     text-align: center;
 }
 
-#bodyText {
-    color: blue
+#subHead {
+    padding-left: 1rem;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 0;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+}
+
+body.main {
+    color:rgba(20, 20, 20, 0.5);
+    margin-top: 1rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 1rem;
+    border: 1px solid white;
+    background-color: grey;
+}
+
+#body {
+    padding-left: 0.5rem;
+    padding-top: 0;
+    padding-right: 2px;
+    padding-bottom: 0;
+
+    color: black;
+    text-align:left;
+}
+
+#thick {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#sameLine {
+    float: inline-end;
+    margin-right: 2rem;
 }
 
 hr {
